@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Rosa
+- 🌱 I’m currently learning JS
